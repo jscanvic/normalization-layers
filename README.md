@@ -14,23 +14,23 @@ theoretical results empirically and find that they are consistent with our predi
 
 **Results**
 
-<p style="text-align: center">
-  <img src="assets/theorem1.svg" alt="Theorem 1">
+<p align="center">
+    <img src="assets/theorem1.svg" alt="Theorem 1">
 </p>
 
-<p style="text-align: center">
+<p align="center">
   <img src="assets/theorem2.svg" alt="Theorem 2">
 </p>
 
-<p style="text-align: center">
+<p align="center">
   <img src="assets/table1.svg" alt="Table 1">
 </p>
 
-<p style="text-align: center">
+<p align="center">
   <img src="assets/table2.svg" alt="Table 2">
 </p>
 
-<p style="text-align: center">
+<p align="center">
   <img src="assets/table3.svg" alt="Table 3">
 </p>
 

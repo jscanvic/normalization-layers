@@ -53,3 +53,17 @@ python submit_job.py
 ```bash
 jupyter nbconvert --to notebook --execute --inplace notebook.ipynb
 ```
+
+**Citation**
+
+```
+@misc{scanvic2025translationEquivariance,
+      title={Translation-Equivariance of Normalization Layers and Aliasing in Convolutional Neural Networks}, 
+      author={Jérémy Scanvic and Quentin Barthélemy and Julián Tachella},
+      year={2025},
+      eprint={2505.19805},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.19805}, 
+}
+```

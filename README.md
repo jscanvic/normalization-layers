@@ -34,12 +34,16 @@ theoretical results empirically and find that they are consistent with our predi
   <img src="assets/table3.svg" alt="Table 3">
 </p>
 
+<p align="center">
+  <img src="assets/figure1.svg" alt="Figure 1">
+</p>
+
 **Reproducing: Computing the errors**
 
 Manually
 
 ```bash
-python main.py --data_root "datasets/ImageNet" --out "results.csv" --batch_size 1024 
+python main.py --data_root "datasets/ImageNet" --out "results.csv" --batch_size 1024
 ```
 
 Using slurm
@@ -58,12 +62,12 @@ jupyter nbconvert --to notebook --execute --inplace notebook.ipynb
 
 ```
 @misc{scanvic2025translationEquivariance,
-      title={Translation-Equivariance of Normalization Layers and Aliasing in Convolutional Neural Networks}, 
+      title={Translation-Equivariance of Normalization Layers and Aliasing in Convolutional Neural Networks},
       author={Jérémy Scanvic and Quentin Barthélemy and Julián Tachella},
       year={2025},
       eprint={2505.19805},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2505.19805}, 
+      url={https://arxiv.org/abs/2505.19805},
 }
 ```
